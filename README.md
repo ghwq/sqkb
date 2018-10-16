@@ -1,5 +1,5 @@
 # sqkb<h2>  
-# APP FILE 文件夹有打包好的文件，可供下载安装浏览<h4>
+# APP FILE 文件夹有打包好的文件，可供下载安装浏览<h1>
 #npm install  
 #npm run dev  
 添加购物车以及用户登录功能     
